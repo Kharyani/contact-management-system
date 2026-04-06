@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "phone": "03345621190",
+        "email": "ali@gmail.com",
+        "city": "Karachi",
+        "company": "Tata"
+    },
+    {
+        "id": 2,
+        "name": "ahmed",
+        "phone": "03367890011",
+        "email": "ahmed@yahoo.com",
+        "city": "islamabad",
+        "company": "Venture Dive"
+    },
+    {
+        "id": 3,
+        "name": "fiza",
+        "phone": "03367892134",
+        "email": "fiza@gmail.com",
+        "city": "lahore",
+        "company": "deloitte"
+    }
+]
